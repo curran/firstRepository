@@ -1,2 +1,3 @@
 # CuteRepository
-Lets checkout my first repository.
+Lets checkout my first repository. 
+Updated repository.
